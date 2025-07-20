@@ -12,8 +12,10 @@
 </ul>
 
 <ul>
-  <h4>Tool-apps</h4>
+  <h4>Helpful Tools</h4>
   <li><a href="https://github.com/MalikVedanshu/chat-app">Chat-App</a> : Create public or private chat rooms. <b>(Socket.io)</b></li>
+  <li><a href="https://github.com/MalikVedanshu/fileShare">File-Share</a> : Host a server to share multiple files with friends. <b> (Multer)</b></li>
+  
 </ul>
 
 <ul>
