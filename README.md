@@ -20,6 +20,9 @@
   <h4>Full stack apps</h4>
   <li><a href="https://github.com/MalikVedanshu/mytaskyapp">Taskify App</a> : Schedule tasks and get notified on mails. Country-Timezones handled. <b>(MERN)</b></li>
   <li><a href="https://github.com/MalikVedanshu/tripMoneySplitNotepad">Money-Split App</a> : record expenses of multiple people and app will split money <b>(MERN)</b> </li>
+  <li><a href="https://github.com/MalikVedanshu/url-info-service-sykell">URL Info Service</a> : analyse a url and records page title, number of headings, presense of forms <b>(Go/Gin + React)</b> </li>
+
+  
 </ul>
 
 <span>Click <a href="https://www.linkedin.com/in/vedanshu-malik/"> here </a> to view my linkedin profile.</span>
